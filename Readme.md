@@ -6,4 +6,4 @@ This is output from Win 11
 
 This is output from Win 2019 Server
 <br />
-![Win 2019](/Screenshot2.png)
+<img src="Screenshot2.png" />
