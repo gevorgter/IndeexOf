@@ -8,7 +8,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             using var f = new StreamReader("test.txt");
             var s = f.ReadToEnd();
-            Console.WriteLine(s.IndexOf("(", StringComparison.InvariantCultureIgnoreCase));
+            Console.WriteLine(s.IndexOf("("));
             Console.ReadLine();
         }
     }
