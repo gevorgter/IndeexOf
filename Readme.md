@@ -2,8 +2,8 @@
 
 This is output from Win 11
 <br />
-<img src="Screenshot1.png" />
+![Win 11](/Screenshot1.png)
 
 This is output from Win 2019 Server
 <br />
-<img src="Screenshot2.png" />
+![Win 2019](/Screenshot2.png)
