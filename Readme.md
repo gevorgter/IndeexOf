@@ -1,5 +1,5 @@
-﻿This is a repo to demonstrate that IndexOf works differently on Win 11 and Win 2019 Server.
-Only s.IndexOf("(", StringComparison.OrdinalIgnoreCase) works correctly
+﻿This is a repo to demonstrate that IndexOf works differently on Win 11 and Win 2019 Server.<br>
+Only s.IndexOf("(", StringComparison.OrdinalIgnoreCase) works correctly<br>
 
 This is output from Win 11
 <br />
